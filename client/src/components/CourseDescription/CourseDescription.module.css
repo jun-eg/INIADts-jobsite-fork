@@ -9,7 +9,7 @@
   flex-grow: 0;
   flex-shrink: 1;
   overflow: hidden;
-  background-color: white;
+  background-color: var(--ifm-background-surface-color);
   border-radius: 1svmin;
 }
 
